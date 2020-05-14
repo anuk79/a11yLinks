@@ -52,5 +52,12 @@
 
 - [How to write accessible JavaScript - Ben Robertson](https://benrobertson.io/accessibility/javascript-accessibility)
 
+- [keyCode MDN link](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode) - Thanks 'Stefan Bauer' for this info.
+
+ ## For mobile devices
+ - [Mobile accessibility testing tools](https://www.digitala11y.com/free-mobile-accessibility-testing-tools/) - Thanks 'Henry Moule' for asking
+
+
+
 
 Note: Feel free to add any resources to this list. Thank you !!
